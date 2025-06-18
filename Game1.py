@@ -1,5 +1,4 @@
 #Programmer :- Siddharth R. Aparnathi
-#Date :- 1 September,2024
 
 #This Program is For Number Guessing Game Using Python.
 
